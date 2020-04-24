@@ -14,7 +14,7 @@ from itertools import product
 c = ''
 # 斗鱼礼物接口
 url = 'https://www.douyu.com/member/prop/send'
-urlH5 = 'https://www.douyu.com/swf_api/h5room/9999'
+urlH5 = 'https://www.douyu.com/swf_api/h5room/578759'
 cookies={}
 # 存放cookie
 list1 = []
